@@ -11,7 +11,7 @@ Here's a brief explanation of each of these CSS properties which is used in this
 3. z-index: This property controls the stack order of elements. Elements with a higher z-index are displayed in front of elements with a lower z-index. It is particularly useful when working with overlapping elements or layers.
 
 
-4. object-fit: This property specifies how an <img>, <video>, or <object> should be resized to fit its container. It can be set to fill, contain, cover, none, or scale-down, each affecting how the media is displayed within its container.
+4. object-fit: This property specifies how an img, video, or object should be resized to fit its container. It can be set to fill, contain, cover, none, or scale-down, each affecting how the media is displayed within its container.
 
 
 5. font-weight: This property sets the thickness of the font. It can be set to normal, bold, bolder, lighter, or a specific numerical value (100 to 900 in increments of 100).
