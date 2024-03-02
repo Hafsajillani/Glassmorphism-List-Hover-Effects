@@ -27,5 +27,5 @@ Here's a brief explanation of each of these CSS properties which is used in this
 
 
 
-https://github.com/Hafsajillani/Glassmorphism-List-Hover-Effects/assets/103882246/1a39abdb-365a-4fe8-8b9e-9d9b375ae10c
+https://github.com/Hafsajillani/Glassmorphism-List-Hover-Effects/assets/103882246/f5048946-eefe-4d6c-bbeb-c309294f5db8
 
